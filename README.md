@@ -1,4 +1,7 @@
-Link => https://meta4every1.vercel.app/
+# Meta4Every1
+
+# Link => 
+https://meta4every1.vercel.app/
 
 
 
@@ -10,9 +13,8 @@ Omar F Abbas, Meta4Every1: A Web-Based Platform for Meta-Analysis Statistical Ca
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18928878.svg)](https://doi.org/10.5281/zenodo.18928878)
 
 
-
-# Meta4Every1
 Meta-Analysis Statistical Calculations
+
 # Features
 - SE to SD Calculator
 - 95% CI to SD Calculator
