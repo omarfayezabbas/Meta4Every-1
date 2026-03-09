@@ -3,7 +3,11 @@ Link => https://meta4every1.vercel.app/
 
 
 # Cite us
-Omar Fayez Abbas. (2026). omarfayezabbas/Meta4Every-1: Initial Release (0.1.0). Zenodo. https://doi.org/10.5281/zenodo.18928878
+Omar F Abbas. (2026). omarfayezabbas/Meta4Every-1:V1 (0.1.0). Zenodo. https://doi.org/10.5281/zenodo.18928878
+        
+        
+        
+        
 
 
 
@@ -44,7 +48,15 @@ Meta-Analysis Statistical Calculations
         
         
         
+        
+        
+        
+        
         )](https://doi.org/10.5281/zenodo.18928878
+        
+        
+        
+        
         
         
         
