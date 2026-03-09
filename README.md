@@ -1,5 +1,6 @@
 Link => https://meta4every1.vercel.app/
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18928878.svg)](https://doi.org/10.5281/zenodo.18928878)
 
 
 # Meta4Every1
